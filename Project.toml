@@ -1,0 +1,13 @@
+name = "bigots"
+uuid = "9fe6225b-08fd-4f2c-a1de-6cff0711f1a9"
+authors = ["songtaogui <songtaogui@sina.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.7.3"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
